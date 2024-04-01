@@ -8,4 +8,4 @@
 
 # 3
 
-@@include[files](./docs/assets/img/2023/kaltenberg_1/*.jpg)
+<!-- @@include[files](./docs/assets/img/2023/kaltenberg_1/*.jpg) -->
