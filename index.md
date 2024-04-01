@@ -1,7 +1,8 @@
-Test
 ![Example](/web-gallery/docs/assets/img/2023/kaltenberg_1/RHO_Kaltenberg_2448.jpg)
 
 [Galerie Kaltenberg 1](./docs/index.html)
+
+[![Galerie](./docs/assets/img/folder.png 'Kaltenberg 1')](./docs/index.html)
 
 <script>
     // Path to the directory containing the images
