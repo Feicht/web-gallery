@@ -59,5 +59,3 @@
 
 [![Galerie](./docs/assets/img/folder48.png '29.12.2023 - Freising')](./docs/freising-29_12_23.html)
 29.12.2023 - Freising
-
-<!-- {% include slider_scripts.html %} -->
