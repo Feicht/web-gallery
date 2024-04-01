@@ -1,1 +1,5 @@
 # web-gallery
+
+<?php
+phpinfo();
+?>
