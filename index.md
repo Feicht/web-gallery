@@ -1,36 +1,5 @@
-![Example](/web-gallery/docs/assets/img/2023/kaltenberg_1/RHO_Kaltenberg_2448.jpg)
+![Example](./docs/assets/img/2023/kaltenberg_1/RHO_Kaltenberg_2448.jpg)
 
-[Galerie Kaltenberg 1](./docs/index.html)
+[Galerie Kaltenberg 1](./docs/kaltenberg_1.html)
 
-[![Galerie](./docs/assets/img/folder.png 'Kaltenberg 1')](./docs/index.html)
-
-<script>
-    // Path to the directory containing the images
-    var path = '/web-gallery/docs/assets/img/2023/kaltenberg_1/';
-
-    // Function to load the images
-    function loadImages() {
-        // Get the gallery element
-        var gallery = document.getElementById('gallery');
-
-        // Fetch the list of files from the server
-        fetch(path)
-            .then(response => response.json())
-            .then(files => {
-                // Loop through the files and create image elements
-                files.forEach(file => {
-                    var img = document.createElement('img');
-                    img.src = path + file;
-                    gallery.appendChild(img);
-                });
-            })
-            .catch(error => {
-                console.error('Error loading images:', error);
-            });
-    }
-
-    // Call the loadImages function when the page is loaded
-    window.addEventListener('load', loadImages);
-</script>
-
-<div id="gallery"></div>
+[![Galerie](./docs/assets/img/folder.png 'Kaltenberg 1')](./docs/kaltenberg_1.html)
