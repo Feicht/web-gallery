@@ -2,4 +2,4 @@
 
 [Galerie Kaltenberg 1](./docs/kaltenberg_1.html)
 
-[![Galerie](./docs/assets/img/folder.png 'Kaltenberg 1')](./docs/kaltenberg_1.html)
+<!-- [![Galerie](./docs/assets/img/folder.png 'Kaltenberg 1')](./docs/kaltenberg_1.html) -->

@@ -4,7 +4,7 @@
 
 # 2
 
-!INCLUDE "./docs/assets/img/2023/kaltenberg_1/*.jpg"
+<!-- !INCLUDE "./docs/assets/img/2023/kaltenberg_1/*.jpg" -->
 
 # 3
 
