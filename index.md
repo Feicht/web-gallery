@@ -1,6 +1,4 @@
 # Auftritte 2023/2024
-<details>
-    <summary>Anklicken zum Aufklappen</summary>
 [![Galerie](./docs/assets/img/folder48.png '25.11.2023 - Kaltenberg')](./docs/kaltenberg-25_11_23.html)
 25.11.2023 - Kaltenberg
 
@@ -27,11 +25,8 @@
 
 [![Galerie](./docs/assets/img/folder48.png '29.12.2023 - Freising')](./docs/freising-29_12_23.html)
 29.12.2023 - Freising
-</details>
 
 # Auftritte 2022/2023
-<details>
-    <summary>Anklicken zum Aufklappen</summary>
 [![Galerie](./docs/assets/img/folder48.png '26.11.2022 - Kaltenberg')](./docs/kaltenberg-26_11_22.html)
 26.11.2022 - Kaltenberg
 
@@ -64,4 +59,3 @@
 
 [![Galerie](./docs/assets/img/folder48.png '06.01.2023 - Kirchseeon')](./docs/kirchseeon-06_01_23.html)
 06.01.2023 - Kirchseeon
-</details>

@@ -45,7 +45,7 @@ img {
 /*=============== GALLERY ===============*/
 .gallery {
   /* gallery size in full */
-  height: 100vh;
+  /* height: 100vh; */
   display: grid;
   align-content: center;
   justify-content: center;
