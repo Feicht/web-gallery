@@ -1,4 +1,110 @@
 # 18.12.22 Olching
+
+<div class="gallery">
+    <!-- =============== SWIPER GALLERY CARDS =============== -->
+    <div class="swiper gallery-cards">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <article class="gallery__card">
+                    <img src="./assets/img/2022/18_12_22-olching/olching (1).jpg" alt="image gallery" class="gallery__img">
+                    <div class="gallery__data">
+                        <h3 class="gallery__title">Ornament Vase</h3>
+                        <span class="gallery__subtitle">Modern</span>
+                    </div>
+                </article>
+            </div>
+
+            <div class="swiper-slide">
+                <article class="gallery__card">
+                    <img src="./assets/img/2022/18_12_22-olching/olching (2).jpg" alt="image gallery" class="gallery__img">
+                    <div class="gallery__data">
+                        <h3 class="gallery__title">Ornament Vase</h3>
+                        <span class="gallery__subtitle">Modern</span>
+                    </div>
+                </article>
+            </div>
+
+            <div class="swiper-slide">
+                <article class="gallery__card">
+                    <img src="./assets/img/2022/18_12_22-olching/olching (3).jpg" alt="image gallery" class="gallery__img">
+                    <div class="gallery__data">
+                        <h3 class="gallery__title">Ornament Vase</h3>
+                        <span class="gallery__subtitle">Modern</span>
+                    </div>
+                </article>
+            </div>
+
+            <div class="swiper-slide">
+                <article class="gallery__card">
+                    <img src="./assets/img/2022/18_12_22-olching/olching (4).jpg" alt="image gallery" class="gallery__img">
+                    <div class="gallery__data">
+                        <h3 class="gallery__title">Ornament Vase</h3>
+                        <span class="gallery__subtitle">Modern</span>
+                    </div>
+                </article>
+            </div>
+
+            <div class="swiper-slide">
+                <article class="gallery__card">
+                    <img src="./assets/img/2022/18_12_22-olching/olching (5).jpg" alt="image gallery" class="gallery__img">
+                    <div class="gallery__data">
+                        <h3 class="gallery__title">Ornament Vase</h3>
+                        <span class="gallery__subtitle">Modern</span>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+    <!-- =============== SWIPER GALLERY THUMBNAIL =============== -->
+    <div class="gallery__overflow">
+        <div class="swiper gallery-thumbs">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="gallery__thumbnail">
+                        <img src="./assets/img/2022/18_12_22-olching/olching (1).jpg" alt="image thumbnail" class="gallery__thumbnail-img">
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="gallery__thumbnail">
+                        <img src="./assets/img/2022/18_12_22-olching/olching (2).jpg" alt="image thumbnail" class="gallery__thumbnail-img">
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="gallery__thumbnail">
+                        <img src="./assets/img/2022/18_12_22-olching/olching (3).jpg" alt="image thumbnail" class="gallery__thumbnail-img">
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="gallery__thumbnail">
+                        <img src="./assets/img/2022/18_12_22-olching/olching (4).jpg" alt="image thumbnail" class="gallery__thumbnail-img">
+                    </div>
+                </div>
+                
+                <div class="swiper-slide">
+                    <div class="gallery__thumbnail">
+                        <img src="./assets/img/2022/18_12_22-olching/olching (5).jpg" alt="image thumbnail" class="gallery__thumbnail-img">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Swiper pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+
+        <!-- Swiper arrows -->
+        <div class="swiper-button-next">
+            <i class="ri-arrow-right-line"></i>
+        </div>
+        <div class="swiper-button-prev">
+            <i class="ri-arrow-left-line"></i>
+        </div>
+    </div>
+</div>
+
 ![Picture01](./assets/img/2022/18_12_22-olching/olching (1).jpg)
 ![Picture02](./assets/img/2022/18_12_22-olching/olching (2).jpg)
 ![Picture03](./assets/img/2022/18_12_22-olching/olching (3).jpg)
