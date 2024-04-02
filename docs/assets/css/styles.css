@@ -44,7 +44,8 @@ img {
 
 /*=============== GALLERY ===============*/
 .gallery {
-  /* height: 100vh; */
+  /* gallery size in full */
+  height: 100vh;
   display: grid;
   align-content: center;
   justify-content: center;
@@ -216,7 +217,8 @@ img {
 /* For medium devices */
 @media screen and (min-width: 1024px) {
   .gallery__card {
-    width: 220px;
+    width: 220px; 
+    /* Galery Card (pic size) */
     height: 290px;
   }
   .gallery__thumbnail {
