@@ -44,7 +44,7 @@ img {
 
 /*=============== GALLERY ===============*/
 .gallery {
-  height: 100vh;
+  /* height: 100vh; */
   display: grid;
   align-content: center;
   justify-content: center;

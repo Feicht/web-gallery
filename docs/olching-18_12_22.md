@@ -7,10 +7,6 @@
             <div class="swiper-slide">
                 <article class="gallery__card">
                     <img src="./assets/img/2022/18_12_22-olching/olching (1).jpg" alt="image gallery" class="gallery__img">
-                    <div class="gallery__data">
-                        <h3 class="gallery__title">Ornament Vase</h3>
-                        <span class="gallery__subtitle">Modern</span>
-                    </div>
                 </article>
             </div>
 
