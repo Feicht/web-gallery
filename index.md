@@ -8,13 +8,13 @@
 [![Galerie](./docs/assets/img/folder48.png '03.12.2022 - Mammendorf')](./docs/mammendorf-03_12_22.html)
 03.12.2022 - Mammendorf
 
-[![Galerie](./docs/assets/img/folder48.png '09.12.2022 - Braumanufaktur Olching')](./docs/braumanufaktur-olching-09_12_22.html)
+[![Galerie](./docs/assets/img/folder48.png '09.12.2022 - Braumanufaktur Olching')](./docs/obm-09_12_22.html)
 09.12.2022 - Braumanufaktur Olching
 
 [![Galerie](./docs/assets/img/folder48.png '10.12.2022 - Kaltenberg')](./docs/kaltenberg-10_12_22.html)
 10.12.2022 - Kaltenberg
 
-[![Galerie](./docs/assets/img/folder48.png '11.12.2022 - Krampuslauf München')](./docs/krampuslauf-muenchen-11_12_22.html)
+[![Galerie](./docs/assets/img/folder48.png '11.12.2022 - Krampuslauf München')](./docs/muc-11_12_22.html)
 11.12.2022 - Krampuslauf München
 
 [![Galerie](./docs/assets/img/folder48.png '17.12.2022 - Kaltenberg')](./docs/kaltenberg-17_12_22.html)
@@ -23,7 +23,7 @@
 [![Galerie](./docs/assets/img/folder48.png '17.12.2022 - Türkenfeld')](./docs/tuerkenfeld-17_12_22.html)
 17.12.2022 - Türkenfeld
 
-[![Galerie](./docs/assets/img/folder48.png '18.12.2022 - Olching')](./docs/olching.html)
+[![Galerie](./docs/assets/img/folder48.png '18.12.2022 - Olching')](./docs/olching-18_12_22.html)
 18.12.2022 - Olching - anpassen!!
 
 [![Galerie](./docs/assets/img/folder48.png '05.01.2023 - Alling')](./docs/alling-05_01_23.html)
