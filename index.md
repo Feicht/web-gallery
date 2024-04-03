@@ -61,17 +61,3 @@ layout: default
 
 [![Galerie](./docs/assets/img/folder48.png '06.01.2023 - Kirchseeon')](./docs/2022/kirchseeon-06_01_23.html)
 06.01.2023 - Kirchseeon
-
-
-<h1>Photo Sets</h1>
-<ul>
-  {% comment %}
-    Get all "photo_set" pages and display a list with links to them.
-  {% endcomment %}
-  {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
-  {% for photo_page in photo_pages %}
-    <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
