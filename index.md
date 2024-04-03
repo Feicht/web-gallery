@@ -54,7 +54,7 @@
 17.12.2022 - Türkenfeld
 
 [![Galerie](./docs/assets/img/folder48.png '18.12.2022 - Olching')](./docs/olching-18_12_22.html)
-18.12.2022 - Olching - anpassen!!
+18.12.2022 - Olching
 
 [![Galerie](./docs/assets/img/folder48.png '05.01.2023 - Alling')](./docs/alling-05_01_23.html)
 05.01.2023 - Alling
