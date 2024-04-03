@@ -64,3 +64,18 @@ layout: default
 
 [![Galerie](./docs/assets/img/folder48.png '06.01.2023 - Kirchseeon')](./docs/kirchseeon-06_01_23.html)
 06.01.2023 - Kirchseeon
+
+
+{% assign num = page.photos.size %}
+
+<h1>{{ page.title }}</h1>
+<ul>
+  {% for i in (1..num) %}
+  <li>
+    <img src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+  </li>
+  {% endfor %}
+</ul>
+<div>
+  <a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
+</div>
