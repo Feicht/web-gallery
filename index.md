@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Auftritte 2023/2024
 
 [![Galerie](./docs/assets/img/folder48.png '25.11.2023 - Kaltenberg')](./docs/kaltenberg-25_11_23.html)
