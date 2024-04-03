@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 17.12.22 Türkenfeld
 ![Picture01](./assets/img/2022/18_12_22-olching/olching (1).jpg)
 ![Picture02](./assets/img/2022/18_12_22-olching/olching (2).jpg)
