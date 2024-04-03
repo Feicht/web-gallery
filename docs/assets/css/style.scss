@@ -1,7 +1,19 @@
 @import "{{ site.theme }}";
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  list-style: none;
 }
+
+@font-face {
+    font-family:OldLondon; src: url(Fiddum.eot);  
+    /* EOT for IE */
+    src: local("real FontName"),url(OldLondon.ttf) format("truetype"); 
+    /* non-IE     */
+} 
+
+@font-face {
+    font-family:OldNewsPaper; 
+    /* EOT for IE */
+    src: local("real FontName"),url(OldNewsPaper.ttf) format("truetype"); 
+    /* non-IE     */
+} 
