@@ -66,16 +66,15 @@ layout: default
 06.01.2023 - Kirchseeon
 
 
-{% assign num = page.photos.size %}
-
-<h1>{{ page.title }}</h1>
+<h1>Photo Sets</h1>
 <ul>
-  {% for i in (1..num) %}
-  <li>
-    <img src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
-  </li>
+  {% comment %}
+    Get all "photo_set" pages and display a list with links to them.
+  {% endcomment %}
+  {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
+  {% for photo_page in photo_pages %}
+    <li>
+      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
+    </li>
   {% endfor %}
 </ul>
-<div>
-  <a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
-</div>
