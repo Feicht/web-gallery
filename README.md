@@ -41,9 +41,9 @@ Projekt ist entstanden durch Gitlab Pages (Jekyll) und der Galerie-Methode von m
 Die Bilder sind entstanden durch Anett Rost und Robert Hoiss diese sind Mitglieder des AmperPerchten e.V.
 </br></br>
 AmperPerchten e.v.</br>
-Webseite: https://www.amperperchten.de
+Webseite: [AmperPerchten e.V.](https://www.amperperchten.de)
 </br></br>
 Seite wird durch Feicht entwickelt.</br>
 Feicht</br>
-Webseite: "{{ site.github.owner_url }}" </br>
-Gitlab: https://github.com/Feicht
+Webseite: [Fullme.sh](https://fullme.sh)
+Gitlab: "{{ site.github.owner_url }}" </br>
