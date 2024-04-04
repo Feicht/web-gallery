@@ -4,18 +4,18 @@ Dieses Projekt, bestehend aus Gitlab Pages, dient als Galerie für den Verein Am
 
 ## Bedienung
 
-- unter /docs/ wird ein Ordner angelegt mit der jeweiligen Saison angelegt
+- unter / wird ein Ordner angelegt mit der jeweiligen Saison angelegt
     - Im Ordner wird eine Datei mit dem Namen aufführung-datum.md angelegt
     - darin wird der Inhalt laut dem Kapitel <Syntax> angelegt
-- unter /docs/img/ wird ein Ordner angelegt mit der gleichen Saison
-- unter /docs/img/jahr/ wird ein Ordner pro Aufführung angelegt
+- unter /img/ wird ein Ordner angelegt mit der gleichen Saison
+- unter /img/jahr/ wird ein Ordner pro Aufführung angelegt
     - Der Ordnername besteht aus Datum und Ort im Format Tag_Monat_Jahr-Ort
-- unter /docs/img/jahr/aufführung/ werden die jeweiligen Bilder abgelegt
+- unter /img/jahr/aufführung/ werden die jeweiligen Bilder abgelegt
     - Die Bilder werden mit dem Namen aufführung-nummer.jpg (vorlaufende Nummer -1, -2, -3, etc.) abgelegt.
 
 ## Syntax
 
-Der Inhalt der Datei /docs/jahr/aufführung-datum.md wird nach folgendem Schema aufgebaut:
+Der Inhalt der Datei /jahr/aufführung-datum.md wird nach folgendem Schema aufgebaut:
 </br>
 <code>layout: photo_set</br>
 title: %Datum% %Ort%</br>
@@ -31,7 +31,7 @@ photos:</br>
 Die Index wird folgendermaßen aufgebaut
 </br>
 <code>'# Auftritte 2023/2024</br>
-[![Galerie](./docs/assets/img/folder48.png 25.11.2023 - Kaltenberg)] (./docs/2023/kaltenberg-25_11_23.html)</br>
+[![Galerie](./assets/img/folder48.png 25.11.2023 - Kaltenberg)] (./docs/2023/kaltenberg-25_11_23.html)</br>
 25.11.2023 - Kaltenberg
 </code>
 
