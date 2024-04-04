@@ -3,13 +3,14 @@
 
 @import "{{ site.theme }}";
 /*@font-face {
-    font-family:OldLondon; src: url(Fiddum.eot);  
+    font-family:OldLondon; 
+    src: url(Fiddum.eot);
     src: local("real FontName"),url(./OldLondon.ttf) format("truetype"); 
 } 
 @font-face {
     font-family:OldNewsPaper; 
     src: local("real FontName"),url(./OldNewsPaper.ttf) format("truetype"); 
-}*/
+}
 
 ul {
   list-style-position: inside;
@@ -23,4 +24,4 @@ ul {
   font-weight: 700;
   color: #fff;
   text-shadow: #000 0px 0px 10px;
-}
+}*/
