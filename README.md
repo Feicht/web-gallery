@@ -35,6 +35,15 @@ Die Index wird folgendermaßen aufgebaut
 25.11.2023 - Kaltenberg
 </code>
 
+## To Do
+- [] Background Wood
+- [] Left Div with 'Kette'
+- [] footer Paper
+- [] second smaler background paper
+- [] different font
+- [] test on mobile
+- [] embed gallery in offical site
+
 ## Autor
 Projekt ist entstanden durch Gitlab Pages (Jekyll) und der Galerie-Methode von [michaelx](https://github.com/michaelx/jekyll-photos)
 </br></br>

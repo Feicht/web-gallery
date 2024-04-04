@@ -1,3 +1,19 @@
+/***********************/
+/******* MY OWN *******/
+/***********************/
+
+@font-face {
+  font-family:OldLondon; src: url(Fiddum.eot);  /* EOT for IE */
+  src: local("real FontName"),url(/assets/fonts/OldLondon.ttf) format("truetype"); /* non-IE     */
+} 
+@font-face {
+  font-family:OldNewsPaper; /* EOT for IE */
+  src: local("real FontName"),url(/assets/fonts/OldNewsPaper.ttf) format("truetype"); /* non-IE     */} 
+
+
+/***********************/
+/** JEKYLL SLATE THEME */
+/***********************/
 .highlight table td {
   padding: 5px
 }
@@ -617,7 +633,7 @@ kbd {
 }
 
 #footer_wrap {
-  background: #e100ff
+  background: #212121
 }
 
 @media screen and (max-width: 992px) {
