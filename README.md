@@ -38,7 +38,7 @@ Die Index wird folgendermaßen aufgebaut
 ## Autor
 Projekt ist entstanden durch Gitlab Pages (Jekyll) und der Galerie-Methode von [michaelx](https://github.com/michaelx/jekyll-photos)
 </br></br>
-Die Bilder sind entstanden durch Annett Rost und Robert Hoiss diese sind Mitglieder des AmperPerchten e.V.
+Die Bilder sind entstanden durch Annett Rost und [Robert Hoiss](https://www.instagram.com/roberthoiss/) diese sind Mitglieder des AmperPerchten e.V.
 </br></br>
 AmperPerchten e.v.</br>
 Webseite: [AmperPerchten e.V.](https://www.amperperchten.de)
