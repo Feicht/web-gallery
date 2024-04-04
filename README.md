@@ -8,9 +8,9 @@ Dieses Projekt, bestehend aus Gitlab Pages, dient als Galerie für den Verein Am
     - Im Ordner wird eine Datei mit dem Namen aufführung-datum.md angelegt
     - darin wird der Inhalt laut dem Kapitel <Syntax> angelegt
 - unter /docs/img/ wird ein Ordner angelegt mit der gleichen Saison
-- unter /docs/img/jahr/ wird ein Ordner pro Ausführung angelegt
+- unter /docs/img/jahr/ wird ein Ordner pro Aufführung angelegt
     - Der Ordnername besteht aus Datum und Ort im Format Tag_Monat_Jahr-Ort
-- unter /docs/img/jahr/auffürhung/ werden die jeweiligen Bilder abgelegt
+- unter /docs/img/jahr/aufführung/ werden die jeweiligen Bilder abgelegt
     - Die Bilder werden mit dem Namen aufführung-nummer.jpg (vorlaufende Nummer -1, -2, -3, etc.) abgelegt.
 
 ## Syntax
