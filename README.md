@@ -17,9 +17,7 @@ Dieses Projekt, bestehend aus Gitlab Pages, dient als Galerie für den Verein Am
 
 Der Inhalt der Datei /docs/jahr/aufführung-datum.md wird nach folgendem Schema aufgebaut:
 </br>
-
-<code>
-layout: photo_set</br>
+<code>layout: photo_set</br>
 title: %Datum% %Ort%</br>
 description: "Fotos vom %Datum% in %Ort%."</br>
 </br>
@@ -31,10 +29,8 @@ photos:</br>
 ## Aufbau index.md
 
 Die Index wird folgendermaßen aufgebaut
-
 </br>
-<code>
-'# Auftritte 2023/2024</br>
+<code>'# Auftritte 2023/2024</br>
 [![Galerie](./docs/assets/img/folder48.png 25.11.2023 - Kaltenberg)] (./docs/2023/kaltenberg-25_11_23.html)</br>
 25.11.2023 - Kaltenberg
 </code>
@@ -49,5 +45,5 @@ Webseite: https://www.amperperchten.de
 </br></br>
 Seite wird durch Feicht entwickelt.</br>
 Feicht</br>
-Webseite: https://fullme.sh </br>
+Webseite: "{{ site.github.owner_url }}" </br>
 Gitlab: https://github.com/Feicht
