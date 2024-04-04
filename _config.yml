@@ -5,7 +5,5 @@ title: AmperPerchten Galerie
 description: Eine Galerie der AmperPerchten
 domain: feicht.github.io
 url: https://feicht.github.io/
-baseurl: /web-gallery/
+baseurl: /web-gallery
 github_username: feicht
-sass: 
-  sass_dir: docs/assets/sass
