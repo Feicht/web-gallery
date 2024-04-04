@@ -16,7 +16,8 @@ Dieses Projekt, bestehend aus Gitlab Pages, dient als Galerie für den Verein Am
 ## Syntax
 
 Der Inhalt der Datei /docs/jahr/aufführung-datum.md wird nach folgendem Schema aufgebaut:
-</br></br>
+</br>
+
 <code>
 layout: photo_set</br>
 title: %Datum% %Ort%</br>
@@ -30,7 +31,8 @@ photos:</br>
 ## Aufbau index.md
 
 Die Index wird folgendermaßen aufgebaut
-</br></br>
+
+</br>
 <code>
 '# Auftritte 2023/2024</br>
 [![Galerie](./docs/assets/img/folder48.png 25.11.2023 - Kaltenberg)] (./docs/2023/kaltenberg-25_11_23.html)</br>
