@@ -1,19 +1,19 @@
 /*@import "{{ site.theme }}";*/
-
+/*
 @font-face {
     font-family:OldLondon; src: url(Fiddum.eot);  
-    /* EOT for IE */
+    /* EOT for IE *
     src: local("real FontName"),url(./OldLondon.ttf) format("truetype"); 
-    /* non-IE     */
+    /* non-IE     *
 } 
 
 @font-face {
     font-family:OldNewsPaper; 
-    /* EOT for IE */
+    /* EOT for IE *
     src: local("real FontName"),url(./OldNewsPaper.ttf) format("truetype"); 
-    /* non-IE     */
-} 
-
+    /* non-IE     *
+}
+*/
 ul {
   list-style-position:inside;
   list-style:none;

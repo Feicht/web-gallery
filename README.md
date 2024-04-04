@@ -45,5 +45,5 @@ Webseite: [AmperPerchten e.V.](https://www.amperperchten.de)
 </br></br>
 Seite wird durch Feicht entwickelt.</br>
 Feicht</br>
-Webseite: [Fullme.sh](https://fullme.sh)
-Gitlab: "{{ site.github.owner_url }}" </br>
+Webseite: [Fullme.sh](https://fullme.sh)</br>
+Gitlab: [Feicht](https://github.com/Feicht)
