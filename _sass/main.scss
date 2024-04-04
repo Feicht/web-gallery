@@ -1,11 +1,11 @@
 @font-face {
     font-family:OldLondon; 
     src: url(Fiddum.eot);
-    src: local("real FontName"),url(./OldLondon.ttf) format("truetype"); 
+    src: local("real FontName"),url(/assets/fonts/OldLondon.ttf) format("truetype"); 
 } 
 @font-face {
     font-family:OldNewsPaper; 
-    src: local("real FontName"),url(./OldNewsPaper.ttf) format("truetype"); 
+    src: local("real FontName"),url(/assets/fonts/OldNewsPaper.ttf) format("truetype"); 
 }
 
 ul {
