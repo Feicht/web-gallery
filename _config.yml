@@ -6,3 +6,6 @@ description: Eine Galerie der AmperPerchten
 domain: feicht.github.io
 url: https://feicht.github.io/
 baseurl: /web-gallery/
+github_username: feicht
+sass: sass_dir: docs/assets/sass
+tags: Amper, Amperperchten, Perchten, Rauhnacht, Nikolaus, Krampus, Fürstenfelder, Fürstenfeldbruck, brucker, Perchta, Luzia, Perchtenlauf, Luzienhäuschenschwimmen, Luzien, heiliger Nikolaus, hl., Perchtengruppe, Bruck, Brauchtum, FFB, Christkindlmarkt
