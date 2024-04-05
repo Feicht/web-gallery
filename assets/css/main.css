@@ -478,7 +478,7 @@ p img {
   padding-top: 40px;
   width: 100%;
   position: relative;
-  text-indent: 20%;
+  text-indent: 10%;
 }
 
 #footer_wrap {
@@ -504,6 +504,11 @@ footer.inner {
 	float: left;
 	background-image: url(../img/chain.png);
 	z-index: 100;
+}
+
+#copyright {
+  text-indent: 30%;
+  color: #000;
 }
 
 @media screen and (max-width: 992px) {
