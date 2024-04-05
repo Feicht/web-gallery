@@ -626,17 +626,19 @@ kbd {
 #main_content_wrap {
   /* background: #f2f2f2; */
   background-image: url(../img/wood.png);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: 80%;
   border-top: 1px solid #111;
-  border-bottom: 1px solid #111
+  border-bottom: 1px solid #111;
+  position: relative;
 }
 
 #main_content {
   background-image: url(../img/paper_middle.png);
-  background-repeat: repeat;
-  background-size: 60%;
-  padding-top: 40px
+  /* background-repeat: repeat; */
+  padding-top: 40px;
+  width: 100%;
+  position: relative;
 }
 
 #footer_wrap {
@@ -676,7 +678,7 @@ kbd {
       text-shadow: #FFFFFF 1px 1px 4px;
       color: #000000;
       font-stretch: ultra-expanded;
-      font-family: "OldLondon";
+      font-family: OldLondon;
   }
 
   h2 {
