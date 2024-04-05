@@ -196,6 +196,12 @@ footer.inner {
 
 }
 
+.backlink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .copyright {
   text-indent: 30%;
   color: #000;
