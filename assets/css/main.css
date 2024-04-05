@@ -482,10 +482,17 @@ p img {
 }
 
 #footer_wrap {
+  background-image: url(../img/wood.png);
+  background-repeat: repeat;
+  background-size: 50%;
+  /* background: #212121 */
+}
+
+footer.inner {
   background-image: url(../img/paper_foot.png);
   background-repeat: no-repeat;
-  background-position: center;
-  /* background: #212121 */
+  max-width: 640px;
+
 }
 
 #kette {
