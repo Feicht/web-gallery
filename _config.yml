@@ -4,6 +4,5 @@ plugins:
 title: AmperPerchten Galerie
 description: Eine Galerie der AmperPerchten
 domain: feicht.github.io
-url: https://feicht.github.io/
-baseurl: /web-gallery
+url: https://galerie.feicht.bayern/
 github_username: feicht
