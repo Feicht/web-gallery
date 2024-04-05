@@ -625,20 +625,21 @@ kbd {
 #main_content_wrap {
   /* background: #f2f2f2; */
   background-image: url(../img/wood.png);
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111
 }
 
 #main_content {
   background-image: url(../img/paper_middle.png);
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   padding-top: 40px
 }
 
 #footer_wrap {
   background-image: url(../img/paper_foot.png);
   background-repeat: no-repeat;
+  background-position: center;
   /* background: #212121 */
 }
 
