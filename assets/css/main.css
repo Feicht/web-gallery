@@ -196,10 +196,11 @@ footer.inner {
 
 }
 
-.backlink {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+back-gallerie-txt {
+  float: right;
+}
+
+back-gallerie-img {
   float: left;
 }
 
