@@ -623,7 +623,7 @@ kbd {
 } */
 
 #main_content_wrap {
-  /* background: #f2f2f2; */
+  background: #f2f2f2;
   background-image: url(../img/wood.png);
   background-repeat: repeat-y;
   border-top: 1px solid #111;
@@ -640,7 +640,7 @@ kbd {
   background-image: url(../img/paper_foot.png);
   background-repeat: no-repeat;
   background-position: center;
-  /* background: #212121 */
+  background: #212121
 }
 
 @media screen and (max-width: 992px) {
