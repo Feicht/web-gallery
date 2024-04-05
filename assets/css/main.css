@@ -196,13 +196,13 @@ footer.inner {
 
 }
 
-back-gallerie-txt {
+.back-gallerie-txt {
   text-indent: 15%;
   vertical-align:middle;
   float: right;
 }
 
-back-gallerie-img {
+.back-gallerie-img {
   text-indent: 15%;
   vertical-align:middle;
   float: left;
