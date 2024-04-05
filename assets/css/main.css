@@ -623,8 +623,8 @@ kbd {
 } */
 
 #main_content_wrap {
-  background: #f2f2f2;
-  background-image: url(./img/paper_middle.png);
+  /* background: #f2f2f2; */
+  background-image: url(../img/paper_middle.png);
   border-top: 1px solid #111;
   border-bottom: 1px solid #111
 }
@@ -634,7 +634,8 @@ kbd {
 }
 
 #footer_wrap {
-  background: #212121
+  background-image: url(../img/paper_foot.png);
+  /* background: #212121 */
 }
 
 @media screen and (max-width: 992px) {
