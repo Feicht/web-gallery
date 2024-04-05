@@ -77,7 +77,8 @@ p {
 
 a {
   text-decoration: none;
-  color: #0F79D0;
+  color: #000;
+  font-family: OldNewsPaper;
   text-shadow: none;
   transition: color 0.5s ease;
   transition: text-shadow 0.5s ease;
