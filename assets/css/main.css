@@ -200,6 +200,7 @@ footer.inner {
   display: flex;
   align-items: center;
   justify-content: center;
+  float: left;
 }
 
 .copyright {

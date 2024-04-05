@@ -3,8 +3,8 @@
 Dieses Projekt, bestehend aus Gitlab Pages, dient als Galerie für den Verein AmperPerchten e.V.
 
 ## To Do
-[ ] test on mobile
-[ ] embed gallery in offical site
+[] test on mobile
+[] embed gallery in offical site
 
 ## Autor
 Projekt ist entstanden durch Gitlab Pages (Jekyll) und der Galerie-Methode von [michaelx](https://github.com/michaelx/jekyll-photos)
