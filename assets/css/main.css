@@ -212,7 +212,7 @@ footer.inner {
   }
   #main_content {
     text-indent: 0;
-    background-image: none;
+    background-position: center;
   }
   .inner {
     max-width: 100%;
