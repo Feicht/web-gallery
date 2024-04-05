@@ -313,10 +313,10 @@ table {
 
 body {
   box-sizing: border-box;
-  color: #373737;
-  background: #212121;
+  /* color: #373737; */
+  /* background: #212121; */
   font-size: 16px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  /* font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif; */
   line-height: 1.5;
   -webkit-font-smoothing: antialiased
 }
@@ -324,8 +324,8 @@ body {
 h1,h2,h3,h4,h5,h6 {
   margin: 10px 0;
   font-weight: 700;
-  color: #222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  /* color: #222222; */
+  /* font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif; */
   letter-spacing: -1px
 }
 
@@ -337,7 +337,6 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 32px;
-  background: url("../images/bg_hr.png") repeat-x bottom
 }
 
 h3 {
@@ -357,7 +356,9 @@ h6 {
 }
 
 p {
-  margin: 10px 0 15px 0
+  margin: 10px 0 15px 0;
+  font-family: OldNewsPaper;
+  color: #000000;
 }
 
 footer p {
@@ -419,7 +420,7 @@ p img {
   text-align: center;
   border: none
 }
-
+/* 
 pre,code {
   color: #222;
   background-color: #fff;
@@ -526,7 +527,7 @@ kbd {
   line-height: 11px;
   padding: 3px 5px;
   vertical-align: middle
-}
+} */
 
 .outer {
   width: 100%
@@ -626,7 +627,7 @@ kbd {
   /* background: #f2f2f2; */
   background-image: url(../img/wood.png);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 80%;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111
 }
@@ -634,6 +635,7 @@ kbd {
 #main_content {
   background-image: url(../img/paper_middle.png);
   background-repeat: repeat;
+  background-size: 60%;
   padding-top: 40px
 }
 
@@ -655,9 +657,9 @@ kbd {
       font-size:14px
   }
 
-  #downloads {
+  /* #downloads {
       display: none
-  }
+  } */
 
   .inner {
       min-width: 320px;
@@ -669,7 +671,12 @@ kbd {
   }
 
   h1 {
-      font-size: 28px
+      font-size: 28px;
+      border: 0px solid #FFFFFF;
+      text-shadow: #FFFFFF 1px 1px 4px;
+      color: #000000;
+      font-stretch: ultra-expanded;
+      font-family: "OldLondon";
   }
 
   h2 {
@@ -702,9 +709,9 @@ kbd {
       font-size:14px
   }
 
-  #downloads {
+  /* #downloads {
       display: none
-  }
+  } */
 
   .inner {
       min-width: 240px;
@@ -716,7 +723,12 @@ kbd {
   }
 
   h1 {
-      font-size: 24px
+      font-size: 24px;
+      border: 0px solid #FFFFFF;
+      text-shadow: #FFFFFF 1px 1px 4px;
+      color: #000000;
+      font-stretch: ultra-expanded;
+      font-family: "OldLondon";
   }
 
   h2 {
