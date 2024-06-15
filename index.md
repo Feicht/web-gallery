@@ -12,8 +12,8 @@ layout: default
 
 [![Galerien](./assets/img/brettbilder.png 'Galerien 2017') Zur Galerie 2017 / 2018 ](./2017/2017.html)
 
-[![Galerien](./assets/img/brettbilder.png 'Galerien 2016') Zur Galerie 2016 / 2017 ](./2016/2016.html)
+[!Zur Galerie 2016 / 2017 ](./2016/2016.html)
 
-[![Galerien](./assets/img/brettbilder.png 'Galerien 2015') Zur Galerie 2015 / 2016 ](./2015/2015.html)
+[![Galerien] Zur Galerie 2015 / 2016 ](./2015/2015.html)
 
-[![Galerien](./assets/img/brettbilder.png 'Galerien 2014') Zur Galerie 2014 / 2015 ](./2014/2014.html)
+[Zur Galerie 2014 / 2015 ](./2014/2014.html)
