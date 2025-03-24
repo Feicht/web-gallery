@@ -25,9 +25,11 @@ ol,ul {
 
 body {
   background-image: url(../img/wood.png);
+  background-size: cover;
   box-sizing: border-box;
   font-size: 16px;
   line-height: 1.5;
+  height: 100%;
   -webkit-font-smoothing: antialiased
 }
 
