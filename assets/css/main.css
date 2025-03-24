@@ -24,8 +24,8 @@ ol,ul {
 }
 
 body {
+  background-image: url(../img/wood.png);
   box-sizing: border-box;
-  background: #212121;
   font-size: 16px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased
@@ -167,11 +167,12 @@ p img {
 }
 
 #main_content_wrap {
-  background-image: url(../img/wood.png);
+/*  background-image: url(../img/wood.png);
   background-repeat: repeat;
-  background-size: 50%;
-  border-top: 1px solid #111;
+  background-size: 50%
   border-bottom: 1px solid #111;
+  ;*/
+  border-top: 1px solid #111;
   position: relative;
 }
 
